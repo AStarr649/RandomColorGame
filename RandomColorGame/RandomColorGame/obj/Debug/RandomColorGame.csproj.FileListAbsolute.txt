@@ -1,0 +1,15 @@
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\bin\Debug\RandomColorGame.exe.config
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\bin\Debug\RandomColorGame.exe
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\bin\Debug\RandomColorGame.pdb
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.GameForm.resources
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.Properties.Resources.resources
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.exe
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.pdb
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.frmMain.resources
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\bin\Debug\RandomColorGame.exe.manifest
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\bin\Debug\RandomColorGame.application
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.exe.manifest
+C:\Users\starr\Desktop\School\C#\RandomColorGame\RandomColorGame\obj\Debug\RandomColorGame.application
